@@ -9,7 +9,7 @@ donde me encargaba de la sala de computación y daba clases de ofimática a niñ
 En el año 2021 trabaje una empresa de software como desarrolladora de aplicaciones.<br>
 
 🌍Pueden encontrarme en: <br>
-LinkedIn: https://www.linkedin.com/in/nataliasilvab/
+LinkedIn: https://www.linkedin.com/in/nataliasilvab/<br>
 Portafolio: https://nataliasilvab.github.io/portafolio/
 
 
