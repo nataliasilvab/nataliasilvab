@@ -10,6 +10,7 @@ En el año 2021 trabaje una empresa de software como desarrolladora de aplicacio
 
 🌍Pueden encontrarme en: <br>
 LinkedIn: https://www.linkedin.com/in/nataliasilvab/
+Portafolio: https://nataliasilvab.github.io/portafolio/
 
 
 <!--
