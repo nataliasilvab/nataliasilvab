@@ -1,4 +1,4 @@
-## Hola, soy Natalia Silva y soy Python Developer Junior 👋
+## Hola, soy Natalia Silva y soy Desarrolladora👋
 <br>
 📌 Soy de Santiago de Chile.<br>
 📖 En este momento me dedico a estudiar un bootcamp FullStack Python.<br>
